@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/guests/page": "app/admin/guests/page.js",
+  "/admin/housekeeping/page": "app/admin/housekeeping/page.js",
+  "/admin/forbidden/page": "app/admin/forbidden/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/admin/logout/route": "app/admin/logout/route.js",
+  "/admin/reservations/page": "app/admin/reservations/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/staff/page": "app/admin/staff/page.js",
+  "/admin/rooms/page": "app/admin/rooms/page.js",
+  "/admin/settings/page": "app/admin/settings/page.js"
+}

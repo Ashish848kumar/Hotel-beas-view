@@ -1,0 +1,2 @@
+import { requireRole } from '../../../lib/admin/auth';
+export default async function Settings(){await requireRole(['OWNER']);return <div className="admin-content"><div className="admin-eyebrow">OWNER CONTROLS</div><h1>Settings</h1><div className="panel"><p className="admin-muted">Configure staff access and property room inventory in Supabase. Use invitation-only account creation; public sign-up must remain disabled in the Supabase Auth dashboard.</p></div></div>}
